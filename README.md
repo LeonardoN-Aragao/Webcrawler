@@ -4,8 +4,8 @@
 ## Instruções
   - Para instalar bibliotecas utilizadas `npm install`.
   - Para testar o programa utilizar o comando `npm start`.
-  - Utilizar Curl ou ferramentas como postman para realizar requisições.
-  - Endpoints disponíveis`/scrap_product` & `status`.
+  - Utilizar Curl ou ferramentas como Postman para realizar requisições.
+  - Endpoints disponíveis `/scrap_product` e `status`.
   - :exclamation: Mudar a porta da aplicação caso necessário.
   
 ## Informações adicionais
